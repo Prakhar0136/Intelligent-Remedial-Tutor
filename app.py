@@ -8,7 +8,7 @@ from agent import QuizzerAgent
 # ==================================================
 
 st.set_page_config(
-    page_title="AI Tutor Pro",
+    page_title="Intelligent Remedial Tutor",
     page_icon="🎓",
     layout="wide"
 )
